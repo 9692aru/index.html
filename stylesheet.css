@@ -1,0 +1,69 @@
+body {
+    height:100%;
+    text-align:center;
+    font-family:serif;
+    display:flex;
+    flex-direction:column;
+}
+
+.header {
+
+}
+.theme {
+    font-size:40px;
+    color:rgb(28, 30, 53);
+    background-color:rgb(123, 117, 156);
+    
+}
+.main {
+    flex-grow:1;
+    overflow-y: auto;
+}
+.explane {
+}
+.header {
+
+}
+.header a {
+    color:rgb();
+    background-color:rgb(184, 184, 184);
+    padding:4px 8px;
+    margin :3px 6px;
+    display:inline-block;
+    border:0.5px solid gray;   
+    display:inline-block;
+    box-shadow:2px 4px gray;
+    font-size:25px;
+}
+.header a:hover {
+    box-shadow:none;
+    margin-top:5px;
+}
+main {
+    width:100vw;
+    display:inline-block;
+}
+.pictures {
+    font-size :25px;
+    font-style:bold;
+    width:33%;
+}
+.picture p p  {
+    font-size:25px;
+}
+.word p p{
+    font-size: 25px;
+}
+.record p p{
+    font-size:25px;
+}
+
+.words {
+
+}
+.records {
+
+}
+.footer {
+
+}
